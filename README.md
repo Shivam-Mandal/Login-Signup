@@ -60,5 +60,4 @@ This project is a **signup and login page** with features for **authentication a
 2. **Login**: Use your registered email and password to log in.
 3. **Protected Pages**: After logging in, you can access the dashboard and other protected routes.
 
-## License
-This project is licensed under the MIT License.
+
